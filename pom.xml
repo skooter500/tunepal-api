@@ -143,6 +143,6 @@
     <properties>
         <jersey.version>2.18</jersey.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.version>9.0.6.v20130930</jetty.version>
+        <jetty.version>9.4.34.v20201102</jetty.version>
     </properties>
 </project>
